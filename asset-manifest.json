@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dapp-token-and-airdrop/static/css/main.618c2c61.css",
+    "main.js": "/dapp-token-and-airdrop/static/js/main.17ee9501.js",
+    "index.html": "/dapp-token-and-airdrop/index.html",
+    "main.618c2c61.css.map": "/dapp-token-and-airdrop/static/css/main.618c2c61.css.map",
+    "main.17ee9501.js.map": "/dapp-token-and-airdrop/static/js/main.17ee9501.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.618c2c61.css",
+    "static/js/main.17ee9501.js"
+  ]
+}
